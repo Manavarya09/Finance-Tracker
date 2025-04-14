@@ -15,8 +15,7 @@ Managing expenses can be tough, so I built a **Personal Finance Tracker** using 
 - Real-time balance updates
 - Lightweight and user-friendly UI
 
-## 📸 Screenshots
-*(Add screenshots of the app here if available)*
+
 
 ## 🚀 Getting Started
 
